@@ -1,3 +1,3 @@
-# Best Buy Autocheckout Script (broken)
+# Best Buy Autocheckout Script (retired)
  
- broken because bestbuy added a queue, but impossible now that they do in person sales only.
+ Broken after BestBuy added a queue
